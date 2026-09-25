@@ -1,0 +1,54 @@
+INFO:     Started server process [3152]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8103 (Press CTRL+C to quit)
+INFO:     127.0.0.1:59675 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59687 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59700 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50408 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62742 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58417 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64312 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51276 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51295 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53299 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59110 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59124 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59143 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59167 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54731 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54747 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54767 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55161 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57231 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57266 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52640 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57768 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57801 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57829 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57850 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57866 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54509 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54545 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52210 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52234 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52259 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56369 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56388 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56415 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56475 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56510 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     Started server process [8756]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8103 (Press CTRL+C to quit)
+INFO:     127.0.0.1:49696 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49709 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49727 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49795 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49817 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49841 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60862 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60887 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55859 - "GET /heartbeat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55880 - "GET /heartbeat HTTP/1.1" 200 OK
